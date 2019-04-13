@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: res/raw/notiwater.mp3
+SHA1-Digest: meCg/GOXL/azjqy2Xk05RH3IcFg=
+
+Name: AndroidManifest.xml
+SHA1-Digest: E8kGu2++Brk8BrbXbvR4ysI7IVA=
+
+Name: res/drawable-xhdpi-v4/default_image.png
+SHA1-Digest: BWRAoPVos58zRwxvNCq1nyPEM9U=
+
+Name: resources.arsc
+SHA1-Digest: QEKxr7rrDotRFkhXQ4FyOHfGfqQ=
+
+Name: res/drawable-xhdpi-v4/app_icon.png
+SHA1-Digest: zh/69g/nYkReUvVpqr9+dwH088w=
+
+Name: res/layout/main.xml
+SHA1-Digest: oy8uREVu3THOecwCXB/5hkICujs=
+
+Name: classes.dex
+SHA1-Digest: 0D0ZAezXdGeVX7Lz6ydS9UBWrTw=
+

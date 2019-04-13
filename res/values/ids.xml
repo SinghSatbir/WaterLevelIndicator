@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="vscroll1" />
+    <item type="id" name="linear1" />
+    <item type="id" name="switch1" />
+    <item type="id" name="linear2" />
+    <item type="id" name="switch2" />
+    <item type="id" name="linear3" />
+    <item type="id" name="linear4" />
+    <item type="id" name="textview1" />
+</resources>

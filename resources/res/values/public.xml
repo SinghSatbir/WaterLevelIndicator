@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="app_icon" id="2130837504" />
+    <public type="drawable" name="default_image" id="2130837505" />
+    <public type="layout" name="main" id="2130903040" />
+    <public type="raw" name="notiwater" id="2130968576" />
+    <public type="color" name="colorPrimary" id="2131034112" />
+    <public type="color" name="colorPrimaryDark" id="2131034113" />
+    <public type="color" name="colorAccent" id="2131034114" />
+    <public type="color" name="colorControlHighlight" id="2131034115" />
+    <public type="color" name="colorControlNormal" id="2131034116" />
+    <public type="string" name="app_name" id="2131099648" />
+    <public type="style" name="AppTheme" id="2131165184" />
+    <public type="style" name="NoActionBar" id="2131165185" />
+    <public type="style" name="FullScreen" id="2131165186" />
+    <public type="style" name="NoStatusBar" id="2131165187" />
+    <public type="id" name="vscroll1" id="2131230720" />
+    <public type="id" name="linear1" id="2131230721" />
+    <public type="id" name="switch1" id="2131230722" />
+    <public type="id" name="linear2" id="2131230723" />
+    <public type="id" name="switch2" id="2131230724" />
+    <public type="id" name="linear3" id="2131230725" />
+    <public type="id" name="linear4" id="2131230726" />
+    <public type="id" name="textview1" id="2131230727" />
+</resources>

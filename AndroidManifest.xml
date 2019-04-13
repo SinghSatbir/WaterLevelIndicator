@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.my.newproject2" platformBuildVersionCode="27" platformBuildVersionName="8.1.0">
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <application android:allowBackup="true" android:icon="@drawable/app_icon" android:label="EL-Project" android:largeHeap="true" android:name=".SketchApplication" android:theme="@style/AppTheme">
+        <activity android:configChanges="orientation|screenSize" android:name=".MainActivity" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".DebugActivity" android:screenOrientation="portrait"/>
+    </application>
+</manifest>
